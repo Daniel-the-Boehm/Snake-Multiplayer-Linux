@@ -1,6 +1,11 @@
 # Snake for Linux
 
-![Screenshot of Snake for Linux](Screenshot-Snake-Linux.png)
+[![Release](https://img.shields.io/github/v/release/Daniel-the-Boehm/Snake-Multiplayer-Linux)](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Linux/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Daniel-the-Boehm/Snake-Multiplayer-Linux/total)](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Linux/releases)
+![Platform](https://img.shields.io/badge/platform-Linux%20x86__64-blue)
+![Python](https://img.shields.io/badge/python-3.12%20%7C%203.13-blue)
+
+![Snake for Linux in the modes Classic, Wall and No Borders](demo.gif)
 
 Snake in Python with pygame, packaged as a single program that needs no Python on the PC. It plays alone or with up to four people on the same Wi-Fi, and it is compatible with the [Windows version](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Windows) and the [macOS version](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Mac): a Linux PC can host a game that Windows and Mac players join, and the other way round.
 
