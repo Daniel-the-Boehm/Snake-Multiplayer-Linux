@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Snake
+GenericName=Snake Multiplayer
+Comment=Snake with seven game modes and local multiplayer
+Exec=snake-multiplayer
+Icon=snake-multiplayer
+Terminal=false
+Categories=Game;ArcadeGame;
+Keywords=snake;multiplayer;arcade;
+StartupWMClass=snake-multiplayer
